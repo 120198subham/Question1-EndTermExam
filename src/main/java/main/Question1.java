@@ -48,7 +48,7 @@ class CSE  extends Courses{ //extend the parent class here
 
 public class Question1 {
 	public static void main(String[] args){
-		System.out.println("Departments:");
+		System.out.println("Departments:"); 
 		System.out.println(" 1) ECE \n 2) Mechanical \n 3) CSE");
 		System.out.println("Choose the department:");
 		Scanner in = new Scanner(System.in);
